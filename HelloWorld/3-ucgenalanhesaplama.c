@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-//Üçgen Alan Hesaplama: 
-//Kullanıcıdan üçgenin taban uzunluğunu ve yüksekliğini alarak üçgenin alanını hesaplayan bir program yazın. 
-//Formül: Alan = (Taban * Yükseklik) / 2
+//ÃœÃ§gen Alan Hesaplama: 
+//KullanÄ±cÄ±dan Ã¼Ã§genin taban uzunluÄŸunu ve yÃ¼ksekliÄŸini alarak Ã¼Ã§genin alanÄ±nÄ± hesaplayan bir program yazÄ±n. 
+//FormÃ¼l: Alan = (Taban * YÃ¼kseklik) / 2
 
 int main()
 {
