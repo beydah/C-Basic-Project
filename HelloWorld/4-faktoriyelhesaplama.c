@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-//Faktöriyel Hesaplama: 
-//Kullanıcıdan bir sayı girmesini isteyen ve girilen sayının faktöriyelini hesaplayan bir program yazın. 
-//Örneğin, 5 girildiğinde program 5! = 5 * 4 * 3 * 2 * 1 = 120 sonucunu vermelidir.
+//FaktÃ¶riyel Hesaplama: 
+//KullanÄ±cÄ±dan bir sayÄ± girmesini isteyen ve girilen sayÄ±nÄ±n faktÃ¶riyelini hesaplayan bir program yazÄ±n. 
+//Ã–rneÄŸin, 5 girildiÄŸinde program 5! = 5 * 4 * 3 * 2 * 1 = 120 sonucunu vermelidir.
 
 int main()
 {
