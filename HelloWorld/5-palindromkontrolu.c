@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 
-//Palindrom Kontrolü: 
-//Kullanıcıdan bir kelime veya cümle girmesini isteyen ve girilen metnin bir palindrom olup olmadığını kontrol eden bir program yazın. 
-//Palindrom, tersten okunuşuyla da aynı olan kelimeler veya cümlelerdir.
+//Palindrom KontrolÃ¼: 
+//KullanÄ±cÄ±dan bir kelime veya cÃ¼mle girmesini isteyen ve girilen metnin bir palindrom olup olmadÄ±ÄŸÄ±nÄ± kontrol eden bir program yazÄ±n. 
+//Palindrom, tersten okunuÅŸuyla da aynÄ± olan kelimeler veya cÃ¼mlelerdir.
 
 int main()
 {
