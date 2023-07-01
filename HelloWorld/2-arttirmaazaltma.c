@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-//Arttırma ve Azaltma: 
-//Kullanıcıdan bir sayı girmesini isteyen bir program yazın ve bu sayıyı arttırıp azaltan işlemleri gerçekleştirin. 
-//Kullanıcıya sonuçları ekranda gösterin.
+//ArttÄ±rma ve Azaltma: 
+//KullanÄ±cÄ±dan bir sayÄ± girmesini isteyen bir program yazÄ±n ve bu sayÄ±yÄ± arttÄ±rÄ±p azaltan iÅŸlemleri gerÃ§ekleÅŸtirin. 
+//KullanÄ±cÄ±ya sonuÃ§larÄ± ekranda gÃ¶sterin.
 
 int main()
 {
