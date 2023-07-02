@@ -1,11 +1,9 @@
 
-![Logo](https://e1.pxfuel.com/desktop-wallpaper/62/435/desktop-wallpaper-c-in-embedded-systems-programming-c-programming-language.jpg)
+![Banner](https://raw.githubusercontent.com/beydah/C-Basic-Project/main/images/banner.jpg)
 
-    
 # C Basic Project: Repository of Fundamental Starting Codes in C
 
 C-Basic-Project represents a repository that contains my own codes of fundamental starting codes in the C programming language. In this repository, you can find basic codes to get started with C programming.
-
 
 ## Lessons Learned
 
@@ -20,13 +18,11 @@ Importance of Documentation and Comments: While developing the project, I realiz
 Problem-Solving Skills: The challenges encountered during the project have honed my problem-solving abilities. I developed skills such as creative thinking, conducting research, and effectively utilizing available resources.
 
 To overcome these challenges, I dedicated myself to ample practice and actively confronted problems. Additionally, conducting research, seeking support from communities, and having others review my code have been instrumental in my progress.
-
   
 ## Screenshots
 
-![Application Screenshot](https://github.com/beydah/C-Basic-Project/blob/main/images/screen.png?raw=true)
+![Application Screenshot](https://raw.githubusercontent.com/beydah/C-Basic-Project/main/images/screen.jpg)
 
-  
 ## Features
 
 - Hello World: A classic introductory project, "Hello World" allows you to write your first program in C, which simply prints a basic "Hello World" message to the screen.
@@ -49,12 +45,10 @@ To overcome these challenges, I dedicated myself to ample practice and actively 
 
 - Bubble Sort Algorithm: Write a program that uses the bubble sort algorithm to sort an array of elements. Prompt the user to enter the elements of the array and display the sorted array on the screen.
 
-  
 ## Used Technologies
 
 **Programming Language:** C
 
-  
 ## Run Locally
 
 Clone the project
@@ -81,12 +75,10 @@ Start the server
   npm run start
 ```
 
-  
 ## Feedback
 
 If you have any feedback, please contact us at info.beydahsaglam@gmail.com
 
-  
 ## Authors and Acknowledgments
 
 - [@beydah](https://www.github.com/beydah) for design and development.
@@ -94,4 +86,3 @@ If you have any feedback, please contact us at info.beydahsaglam@gmail.com
 ## License
 
 These projects are open source and do not have any specific license.
-  
