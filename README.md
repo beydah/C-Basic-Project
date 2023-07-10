@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/beydah/C-Basic-Project/main/images/BeydahGithubProjectBanner.gif)
+![Logo](https://raw.githubusercontent.com/beydah/images/main/images/BeydahGithubProjectBanner.gif)
 
     
 # 10 C Dili Proje (Yeni Başlayanlar İçin)
@@ -23,7 +23,7 @@ Sonuç olarak, bu projede C programlama dilindeki temel becerilerimi geliştirer
   
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/beydah/C-Basic-Project/main/images/BeydahGithubProjectScreen.gif)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/beydah/images/main/images/BeydahGithubProjectScreen.gif)
 
   
 ## Özellikler
