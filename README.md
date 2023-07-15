@@ -27,25 +27,25 @@ In summary, by developing my fundamental skills in the C programming language th
   
 ## Features
 
-- Merhaba Dünya: Klasik bir tanıtım projesi olan "Merhaba Dünya", C'de ilk programınızı yazmanıza olanak sağlar. Basit bir "Merhaba Dünya" mesajını ekrana yazdırır.
+- "Hello World": This program simply prints the phrase "Hello World" to the console, serving as a basic introduction to programming.
 
-- Artırma ve Azaltma: Kullanıcıdan bir sayı girmesini isteyen ve bu sayı üzerinde artırma ve azaltma işlemleri yapan, sonuçları ekranda gösteren bir program yazın.
+- "Program to print the number entered by the user": This program prompts the user to enter a number and then prints the entered number to the console.
 
-- Üçgen Alan Hesaplama: Kullanıcıdan üçgenin taban uzunluğunu ve yüksekliğini alan ve formülü kullanarak üçgenin alanını hesaplayan bir program yazın: Alan = (Taban * Yükseklik) / 2.
+- "Check if the entered number is positive or negative": This program prompts the user to enter a number and then determines whether the entered number is positive or negative.
 
-- Faktöriyel Hesaplama: Kullanıcıdan bir sayı girmesini isteyen ve verilen sayının faktöriyelini hesaplayan bir program yazın. Örneğin, kullanıcı 5 girdiğinde, program 5! = 5 * 4 * 3 * 2 * 1 = 120 şeklinde bir çıktı üretmelidir.
+- "Check if the entered number is odd or even": This program prompts the user to enter a number and then checks whether the entered number is odd or even.
 
-- Palindrom Kontrolü: Kullanıcıdan bir kelime veya cümle girmesini isteyen ve girilen metnin öne doğru ve tersten aynı olduğunu kontrol eden bir program yazın.
+- "Program to add two numbers": This program prompts the user to enter two numbers and then calculates their sum.
 
-- Sayı Tahmin Oyunu: Bilgisayarın rastgele bir sayı seçtiği ve kullanıcının bunu tahmin etmeye çalıştığı bir oyun oluşturun. Program, tahminin doğru, daha büyük veya daha küçük olduğunu belirterek ipuçları sağlamalıdır.
+- "Program to find the average of two numbers": This program prompts the user to enter two numbers and then calculates their average.
 
-- Asal Sayılar: Kullanıcının girdiği bir sayının asal olup olmadığını kontrol eden bir program yazın. Asal sayı, sadece 1 ve kendisi tarafından bölünebilen bir sayıdır.
+- "Program to find the largest among three numbers": This program prompts the user to enter three numbers and then determines the largest number among them.
 
-- Dosya İşlemleri: Bir metin dosyası oluşturun ve kullanıcıdan bazı metinleri girmesini isteyin. Kullanıcının girdiği metni dosyaya yazan ve ardından dosyayı okuyarak içeriğini ekranda gösteren bir program yazın.
+- "Program to find the sum of N natural numbers": This program prompts the user to enter a positive integer N and then calculates the sum of the first N natural numbers.
 
-- Basit Hesap Makinesi: Kullanıcıdan iki sayı ve bir aritmetik operatör (+, -, *, /) girmesini isteyin. Belirtilen işlemi gerçekleştiren ve sonucu ekranda gösteren bir program yazın.
+- "Program to generate the Fibonacci series within a specified range": This program prompts the user to enter a positive integer N and then generates the Fibonacci series up to the Nth term.
 
-- Baloncuk Sıralama Algoritması: Bir dizi elemanı sıralamak için baloncuk sıralama algoritmasını kullanan bir program yazın. Kullanıcıdan dizinin elemanlarını girmesini isteyin ve sıralanmış diziyi ekranda gösterin.
+- "Program to find prime numbers within a specified range": This program prompts the user to enter two positive integers representing the lower and upper bounds of a range. It then finds and prints all the prime numbers within that range.
 
   
 ## Technologies Used
