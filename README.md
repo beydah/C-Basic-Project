@@ -2,31 +2,30 @@
 ![Logo](https://raw.githubusercontent.com/beydah/images/main/images/BeydahGithubProjectBanner.gif)
 
     
-# 10 C Dili Proje (Yeni Başlayanlar İçin)
+# 10 C Language Projects (For Beginners)
 
 
-Bu projede, yazılıma ve C diline yeni başlarken oluşturduğum temel algoritma problemi kodlarına yer verilmiştir. Kodlar, kolaydan zora doğru sıralanmış şekilde 10 farklı problemi içermekte ve bu sayede yazılım becerileri basitten karmaşığa doğru geliştirilmektedir. Projede yer alan kodlar, hem temel C programlama yeteneklerini geliştirmeye yardımcı olmakta hem de algoritma düşüncesini kazandırmaktadır. Bu sayede, programlama becerileri ve problem çözme yetenekleri adım adım geliştirilerek, yazılım dünyasına daha donanımlı bir şekilde adım atılmaktadır.
+This project includes the code for fundamental algorithmic problems that I created when starting out in software development and the C language. The codes consist of 10 different problems arranged from easy to difficult, which helps improve software skills from basic to complex. The codes in the project not only assist in enhancing basic C programming skills but also foster algorithmic thinking. This way, programming skills and problem-solving abilities are developed step by step, enabling a more competent entry into the world of software.
 
-Projede yer alan temel algoritma problemleri, adım adım çözülerek yazılım becerilerini geliştirme fırsatı sunmaktadır. Bu kodları inceleyerek, C dilinin temel yapılarını ve algoritma tasarımını öğrenmek mümkündür. Ayrıca, problem çözme yetenekleri ve algoritma düşüncesi geliştirilerek, entelektüel kapasite artırılmaktadır.
+The fundamental algorithmic problems included in this project provide an opportunity to improve software skills by solving them step by step. By examining these codes, you can learn the basic structures of the C language and algorithm design. Additionally, by developing problem-solving abilities and algorithmic thinking, you can enhance your intellectual capacity.
 
-Sonuç olarak, bu projede yer alan temel algoritma problemi kodları, yazılım dünyasına giriş yaparken programlama becerilerini ve algoritma düşüncesini geliştirmek için idealdir. Adım adım çözülen problemler, temel C diline hakimiyeti artırarak daha karmaşık yazılım projelerine daha fazla özgüvenle yaklaşmayı sağlar.
+In conclusion, the code for fundamental algorithmic problems included in this project is ideal for improving programming skills and algorithmic thinking when entering the world of software. By solving problems step by step, it enhances mastery of the basic C language and enables approaching more complex software projects with increased confidence.
 
+## Lessons Learned
 
-## Çıkarılan Dersler
+While building this project, I had the opportunity to enhance my fundamental skills in the C programming language. I encountered various challenges, but I learned to solve them using debugging techniques and step-by-step approaches. I also discovered the importance of organizing code in a modular way and communicating between functions. Throughout this project, I improved myself by facing these challenges, practicing and using external resources.
 
-Bu projeyi inşa ederken, C programlama dilindeki temel becerilerimi geliştirme fırsatı buldum. Çeşitli zorluklarla karşılaştım, ancak hataları ayıklama tekniklerini kullanarak ve adım adım yaklaşımlarla bu sorunları çözmeyi öğrendim. Ayrıca, kodu modüler bir şekilde düzenlemenin ve fonksiyonlar arasında iletişim kurmanın önemini keşfettim. Bu projede kodları okunabilir ve anlaşılır hale getirmek için dokümantasyon ve yorumların önemini de kavradım. Tüm bu zorluklarla karşılaşarak, pratik yapmaya ve dış kaynakları kullanmaya özen göstererek kendimi geliştirdim.
+I strengthened my fundamental skills in the C programming language and enhanced my problem-solving abilities in this project. I adopted a patient and systematic approach to overcome challenges encountered during the debugging process. Additionally, I applied modular programming principles to make the code more sustainable and readable. By practicing documentation and commenting in this project, I increased the comprehensibility of the code and facilitated collaboration. These experiences significantly improved my programming skills and intellectual capacity.
 
-Bu projede C programlama dilindeki temel becerilerimi güçlendirdim ve problem çözme yeteneklerimi artırdım. Hata ayıklama sürecinde karşılaştığım zorlukları aşmak için sabırlı ve yöntemli bir yaklaşım benimsedim. Ayrıca, kodları daha sürdürülebilir ve okunabilir hale getirmek için modüler programlama prensiplerini uyguladım. Bu projede belgeleme ve yorumlama pratiği yaparak, kodun anlaşılırlığını artırdım ve işbirliği yapmayı kolaylaştırdım. Bu deneyimler, benim programlama becerilerimi ve entelektüel kapasitemi önemli ölçüde geliştirdi.
-
-Sonuç olarak, bu projede C programlama dilindeki temel becerilerimi geliştirerek yazılım dünyasına daha güçlü bir başlangıç yaptım. Karşılaştığım zorluklarla yüzleşmek için çaba sarf ettim ve adım adım çözüm odaklı bir yaklaşım benimsedim. Projede yer alan kodlar ve algoritmaları kullanarak entelektüel kapasitemi artırdım ve problem çözme becerilerimi ilerlettim. Bu projenin bana kazandırdığı deneyimler, gelecekte daha karmaşık projelere daha fazla özgüvenle yaklaşmama yardımcı oldu.
+In summary, by developing my fundamental skills in the C programming language through this project, I made a stronger start in the world of software. I made efforts to overcome challenges encountered and adopted a solution-oriented approach step by step. Through the codes and algorithms provided in this project, I increased my intellectual capacity and advanced my problem-solving skills. The experiences gained from this project helped me approach more complex projects in the future with increased confidence.
 
   
-## Ekran Görüntüleri
+## Screenshots
 
 ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/beydah/images/main/images/BeydahGithubProjectScreen.gif)
 
   
-## Özellikler
+## Features
 
 - Merhaba Dünya: Klasik bir tanıtım projesi olan "Merhaba Dünya", C'de ilk programınızı yazmanıza olanak sağlar. Basit bir "Merhaba Dünya" mesajını ekrana yazdırır.
 
@@ -49,48 +48,41 @@ Sonuç olarak, bu projede C programlama dilindeki temel becerilerimi geliştirer
 - Baloncuk Sıralama Algoritması: Bir dizi elemanı sıralamak için baloncuk sıralama algoritmasını kullanan bir program yazın. Kullanıcıdan dizinin elemanlarını girmesini isteyin ve sıralanmış diziyi ekranda gösterin.
 
   
-## Kullanılan Teknoloji
+## Technologies Used
 
-**Dil:** C
-
-  
-## Bilgisayarınızda Çalıştırın
-
-Projeyi klonlayın
-
-```bash
-  git clone https://github.com/beydah/C-Basit-Projeler.git
-```
-
-Proje dizinine gidin
-
-```bash
-  cd C-Basit-Projeler
-```
-
-Gerekli paketleri yükleyin
-
-```bash
-  npm install
-```
-
-Sunucuyu çalıştırın
-
-```bash
-  npm run start
-```
+**Language:** C
 
   
-## Geri Bildirim
+## Run Locally
 
-Herhangi bir geri bildiriminiz varsa, lütfen info.beydahsaglam@gmail.com adresinden bize ulaşın.
+Clone the project
+
+```bash
+  git clone https://github.com/beydah/C-Basic-Projects.git
+```
+
+Go to the project directory
+
+```bash
+  cd C-Basic-Projects
+```
+
+Open it with Visual Studio Code
+
+```bash
+  code .
+```
+  
+## Feedback
+
+If you have any feedback, please reach out to me at info.beydahsaglam@gmail.com.
 
   
-## Yazar
+## Author
 
-- [@beydah](https://github.com/beydah) tasarım ve geliştirme.
+- [@beydah](https://github.com/beydah) Development.
 
   
-## Lisans
+## License
 
-Bu projeler açık kaynaklıdır ve herhangi bir özel lisansa sahip değildir.
+This project is open source and does not have any special license.
