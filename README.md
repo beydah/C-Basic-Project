@@ -2,7 +2,7 @@
 ![Logo](https://raw.githubusercontent.com/beydah/images/main/images/BeydahGithubProjectBanner1.gif)
 
     
-# 10 C Language Projects (For Beginners)
+# 10 C Language Projects (Beginner LVL)
 
 
 This project includes the code for fundamental algorithmic problems that I created when starting out in software development and the C language. The codes consist of 10 different problems arranged from easy to difficult, which helps improve software skills from basic to complex. The codes in the project not only assist in enhancing basic C programming skills but also foster algorithmic thinking. This way, programming skills and problem-solving abilities are developed step by step, enabling a more competent entry into the world of software.
