@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/beydah/images/main/images/BeydahGithubProjectBanner.gif)
+![Logo](https://raw.githubusercontent.com/beydah/images/main/images/BeydahGithubProjectBanner1.gif)
 
     
 # 10 C Language Projects (For Beginners)
@@ -22,7 +22,7 @@ In summary, by developing my fundamental skills in the C programming language th
   
 ## Screenshots
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/beydah/images/main/images/BeydahGithubProjectScreen.gif)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/beydah/images/main/images/BeydahGithubProjectScreen1.gif)
 
   
 ## Features
