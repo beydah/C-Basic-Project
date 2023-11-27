@@ -1,88 +1,102 @@
+# C Dili ile 50 Algoritma Problemi
 
-![Logo](https://raw.githubusercontent.com/beydah/Assets-Repository/main/gifs/BeydahGithubProjectBanner1.gif)
+## Developer Information
 
-    
-# 10 C Language Projects (Beginner LVL)
+This project has been created and developed by Beydah Sağlam. To contact Beydah Sağlam, please send an email to [info.beydahsaglam@gmail.com](mailto:info.beydahsaglam@gmail.com).
 
+To provide free support to the developer, you can follow the author on <a href="https://github.com/beydah" target="blank">github/beydah</a>.
 
-This project includes the code for fundamental algorithmic problems that I created when starting out in software development and the C language. The codes consist of 10 different problems arranged from easy to difficult, which helps improve software skills from basic to complex. The codes in the project not only assist in enhancing basic C programming skills but also foster algorithmic thinking. This way, programming skills and problem-solving abilities are developed step by step, enabling a more competent entry into the world of software.
+To support the project for free, you can star the project.
 
-The fundamental algorithmic problems included in this project provide an opportunity to improve software skills by solving them step by step. By examining these codes, you can learn the basic structures of the C language and algorithm design. Additionally, by developing problem-solving abilities and algorithmic thinking, you can enhance your intellectual capacity.
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
+</div>
 
-In conclusion, the code for fundamental algorithmic problems included in this project is ideal for improving programming skills and algorithmic thinking when entering the world of software. By solving problems step by step, it enhances mastery of the basic C language and enables approaching more complex software projects with increased confidence.
+## Repository Information
 
-## Lessons Learned
+This repository holds C-based algorithm solutions I crafted during my early programming journey. I prioritized clean code and aimed to develop algorithms thoughtfully. You'll find solutions for diverse problems, from basics like printing 'hello world' in C to more complex tasks involving pointers, memory access with void pointers, sorting algorithms, binary to decimal conversions, and file reading operations.
 
-While building this project, I had the opportunity to enhance my fundamental skills in the C programming language. I encountered various challenges, but I learned to solve them using debugging techniques and step-by-step approaches. I also discovered the importance of organizing code in a modular way and communicating between functions. Throughout this project, I improved myself by facing these challenges, practicing and using external resources.
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
+</div>
 
-I strengthened my fundamental skills in the C programming language and enhanced my problem-solving abilities in this project. I adopted a patient and systematic approach to overcome challenges encountered during the debugging process. Additionally, I applied modular programming principles to make the code more sustainable and readable. By practicing documentation and commenting in this project, I increased the comprehensibility of the code and facilitated collaboration. These experiences significantly improved my programming skills and intellectual capacity.
+## Usage Information
 
-In summary, by developing my fundamental skills in the C programming language through this project, I made a stronger start in the world of software. I made efforts to overcome challenges encountered and adopted a solution-oriented approach step by step. Through the codes and algorithms provided in this project, I increased my intellectual capacity and advanced my problem-solving skills. The experiences gained from this project helped me approach more complex projects in the future with increased confidence.
+If you find these algorithms useful, feel free to utilize them according to your needs. You are welcome to enhance, modify, or use them as valuable learning materials. Adapt them to suit your requirements and learning objectives without any restrictions.
 
-  
-## Screenshots
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
+</div>
 
-![Screenshots](https://raw.githubusercontent.com/beydah/Assets-Repository/main/gifs/BeydahGithubProjectScreen1.gif)
+## Solutions Inside the File
 
-  
-## Features
+<details>
+  <summary><h3>Beginner (A1): Introduction to fundamental programming concepts</h3></summary>
+  <ol>
+    <li>Hello World</li>
+    <li>Check Even</li>
+    <li>Fibonacci Series</li>
+    <li>Prime Series</li>
+    <li>Other...</li>
+  </ol>
+</details>
 
-- "Hello World": This program simply prints the phrase "Hello World" to the console, serving as a basic introduction to programming.
+<details>
+  <summary><h3>Beginner (A2): Building on basic programming skills</h3></summary>
+    <ol>
+    <li>Multiplication Table</li>
+    <li>is Prime</li>
+    <li>Two Number GCD</li>
+    <li>Two Number LCM</li>
+    <li>Other...</li>
+  </ol>
+</details>
 
-- "Program to print the number entered by the user": This program prompts the user to enter a number and then prints the entered number to the console.
+<details>
+  <summary><h3>Intermediate (B1): Progressing to intermediate-level programming concepts</h3></summary>
+    <ol>
+    <li>Size of Types</li>
+    <li>Binary To Decimal</li>
+    <li>Decimal To Hexadecimal</li>
+    <li>ASCII Number</li>
+    <li>Other...</li>
+  </ol>
+</details>
 
-- "Check if the entered number is positive or negative": This program prompts the user to enter a number and then determines whether the entered number is positive or negative.
+<details>
+  <summary><h3>Intermediate (B2): Delving into more advanced topics within the intermediate level</h3></summary>
+    <ol>
+    <li>Array Length</li>
+    <li>Array Sum</li>
+    <li>Pointer Address</li>
+    <li>Data Address</li>
+    <li>Other...</li>
+  </ol>
+</details>
 
-- "Check if the entered number is odd or even": This program prompts the user to enter a number and then checks whether the entered number is odd or even.
+<details>
+  <summary><h3>Advanced (C1): Venturing into advanced programming challenges</h3></summary>
+    <ol>
+    <li>Reverse With Pointer</li>
+    <li>Bubble Sort</li>
+    <li>Quick Sort</li>
+    <li>File Reader</li>
+    <li>Other...</li>
+  </ol>
+</details>
 
-- "Program to add two numbers": This program prompts the user to enter two numbers and then calculates their sum.
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
+</div>
 
-- "Program to find the average of two numbers": This program prompts the user to enter two numbers and then calculates their average.
+## Download Information
 
-- "Program to find the largest among three numbers": This program prompts the user to enter three numbers and then determines the largest number among them.
+You have the option to download all algorithm solutions effortlessly by clicking on the provided button or link below. Feel free to access and utilize these solutions for your programming needs. Whether you're looking to study, enhance, or implement them into your projects, the choice is yours. Click the button/link below to access the comprehensive set of algorithmic solutions.
 
-- "Program to find the sum of N natural numbers": This program prompts the user to enter a positive integer N and then calculates the sum of the first N natural numbers.
+[v Click For Download To C and Algorithm v](https://github.com/beydah/C-and-Algorithm/raw/main/C-Projects)
 
-- "Program to generate the Fibonacci series within a specified range": This program prompts the user to enter a positive integer N and then generates the Fibonacci series up to the Nth term.
-
-- "Program to find prime numbers within a specified range": This program prompts the user to enter two positive integers representing the lower and upper bounds of a range. It then finds and prints all the prime numbers within that range.
-
-  
-## Technologies Used
-
-**Language:** C
-
-  
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/beydah/C-Basic-Projects.git
-```
-
-Go to the project directory
-
-```bash
-  cd C-Basic-Projects
-```
-
-Open it with Visual Studio Code
-
-```bash
-  code .
-```
-  
-## Feedback
-
-If you have any feedback, please reach out to me at info.beydahsaglam@gmail.com.
-
-  
-## Author
-
-- [@beydah](https://github.com/beydah) Development.
-
-  
-## License
-
-This project is open source and does not have any special license.
+<div>
+    <a href="https://github.com/beydah/C-and-Algorithm/raw/main/C-Projects">
+        <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" height="50">
+    </a>
+</div>
