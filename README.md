@@ -93,10 +93,10 @@ If you find these algorithms useful, feel free to utilize them according to your
 
 You have the option to download all algorithm solutions effortlessly by clicking on the provided button or link below. Feel free to access and utilize these solutions for your programming needs. Whether you're looking to study, enhance, or implement them into your projects, the choice is yours. Click the button/link below to access the comprehensive set of algorithmic solutions.
 
-[v Click For Download To C and Algorithm v](https://github.com/beydah/C-and-Algorithm/raw/main/C-Projects)
+[v Click For Download To C and Algorithm v](https://github.com/beydah/C-and-Algorithm/archive/refs/heads/main.zip)
 
 <div>
-    <a href="https://github.com/beydah/C-and-Algorithm/raw/main/C-Projects">
+    <a href="https://github.com/beydah/C-and-Algorithm/archive/refs/heads/main.zip">
         <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" height="50">
     </a>
 </div>
