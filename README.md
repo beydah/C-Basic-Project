@@ -1,4 +1,4 @@
-# C Dili ile 50 Algoritma Problemi
+# 50 Algorithmic Problems in the C Language
 
 ## Developer Information
 
